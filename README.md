@@ -110,6 +110,14 @@ Key analyses performed:
 
 ---
 
+## 📷 Project Visualizations
+![Churn Distribution](images/churn distribution.png)
+![Contract Analysis](images/churn by contract.png)
+![Tenure Analysis](images/churn by tenuregroup.png)
+![MonthlyCharges Analysis](images/churn by monthly charges.png)
+
+---
+
 ## 📌 Skills Demonstrated
 
 - Data Cleaning & Preprocessing

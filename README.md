@@ -111,10 +111,10 @@ Key analyses performed:
 ---
 
 ## 📷 Project Visualizations
-![Churn Distribution](images/churn distribution.jpg)
-![Contract Analysis](images/churn by contract.jpg)
-![Tenure Analysis](images/churn by tenuregroup.jpg)
-![MonthlyCharges Analysis](images/churn by monthly charges.jpg)
+![Churn Distribution](images/churn%20distribution.jpg)
+![Contract Analysis](images/churn%20by%20contract.jpg)
+![Tenure Analysis](images/churn%20by%20tenuregroup.jpg)
+![MonthlyCharges Analysis](images/churn%20by%20monthly%20charges.jpg)
 
 ---
 
